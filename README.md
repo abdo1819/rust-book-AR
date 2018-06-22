@@ -1,5 +1,5 @@
 >>**This is a fork of [rust-lang/book](https://github.com/rust-lang/book) in order to translate the English (second-edition) >>book to Arabic.**
-
+>>
 >>Please read [TRANSLATE.md](https://github.com/georgio/rust-book-AR/blob/master/TRANSLATING.md) for more info!
 
 # The Rust Programming Language
